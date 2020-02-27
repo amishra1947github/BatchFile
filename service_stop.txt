@@ -1,0 +1,3 @@
+net stop IBS Conditional Access Service
+net stop IBS Integration Framework File And Task Service
+net stop IBS Integration Framework Service

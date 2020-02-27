@@ -1,0 +1,23 @@
+Get-Service -ComputerName 172.21.30.65 IBSBGBilling-baseline,IBSBGCriticalAction-baseline,IB
+SBGEscalations-baseline,IBSBGInstallmentFtCreation-baseline,IBSBGInvoiceRun-baseline,IBSBGLetters-baseline,IBSBGPeriodiz
+ationRun-baseline,IBSBGPrepaid-baseline,IBSBGQuery-baseline,IBSBGScheduleManager-baseline | Restart-Service
+
+Get-Service -ComputerName 172.21.30.66 IBSBGBilling-baseline,IBSBGCriticalAction-baseline,IB
+SBGEscalations-baseline,IBSBGInstallmentFtCreation-baseline,IBSBGInvoiceRun-baseline,IBSBGLetters-baseline,IBSBGPeriodiz
+ationRun-baseline,IBSBGPrepaid-baseline,IBSBGQuery-baseline,IBSBGScheduleManager-baseline | Restart-Service
+
+Get-Service -ComputerName 172.21.30.67 IBSBGBilling-baseline,IBSBGCriticalAction-baseline,IB
+SBGEscalations-baseline,IBSBGInstallmentFtCreation-baseline,IBSBGInvoiceRun-baseline,IBSBGLetters-baseline,IBSBGPeriodiz
+ationRun-baseline,IBSBGPrepaid-baseline,IBSBGQuery-baseline,IBSBGScheduleManager-baseline | Restart-Service
+
+Get-Service -ComputerName 172.21.30.68 IBSBGBilling-baseline,IBSBGCriticalAction-baseline,IB
+SBGEscalations-baseline,IBSBGInstallmentFtCreation-baseline,IBSBGInvoiceRun-baseline,IBSBGLetters-baseline,IBSBGPeriodiz
+ationRun-baseline,IBSBGPrepaid-baseline,IBSBGQuery-baseline,IBSBGScheduleManager-baseline | Restart-Service
+
+Get-Service -ComputerName 172.21.30.69 IBSBGBilling-baseline,IBSBGCriticalAction-baseline,IB
+SBGEscalations-baseline,IBSBGInstallmentFtCreation-baseline,IBSBGInvoiceRun-baseline,IBSBGLetters-baseline,IBSBGPeriodiz
+ationRun-baseline,IBSBGPrepaid-baseline,IBSBGQuery-baseline,IBSBGScheduleManager-baseline | Restart-Service
+
+Get-Service -ComputerName 172.21.30.70 IBSBGBilling-baseline,IBSBGCriticalAction-baseline,IB
+SBGEscalations-baseline,IBSBGInstallmentFtCreation-baseline,IBSBGInvoiceRun-baseline,IBSBGLetters-baseline,IBSBGPeriodiz
+ationRun-baseline,IBSBGPrepaid-baseline,IBSBGQuery-baseline,IBSBGScheduleManager-baseline | Restart-Service

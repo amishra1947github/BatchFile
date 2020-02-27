@@ -1,0 +1,4 @@
+Net Use \\172.21.30.74 pass@123 /User:karmveer
+SC \\172.21.30.74 Start IBS Conditional Access Service
+SC \\172.21.30.74 Start IBS Integration Framework File And Task Service
+SC \\172.21.30.74 Start IBS Integration Framework Service
